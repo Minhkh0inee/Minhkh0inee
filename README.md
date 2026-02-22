@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on **Kinetic** – a real-time project management platform built with Next.js, NestJS, PostgreSQL, and WebSockets<br>
-👯 I'm looking to collaborate on open-source web apps, startup projects, or anything involving React/Next.js and modern UI<br>
-🌱 I'm currently learning advanced DevOps workflows – Docker, CI/CD with GitHub Actions, and cloud infrastructure on AWS<br>
-🤝 I'm looking for help with system design patterns and scaling backend architecture with NestJS<br>
-💬 Ask me about React, Next.js, TypeScript, building pixel-perfect UIs from Figma, or shipping React Native apps to the App Store<br>
-⚡ Fun fact: I've shipped apps to both the App Store & Google Play, and migrated a production server to AWS — all within my first year of working 😄
+🔭 **Currently Building:** Kinetic – a real-time project management platform. I'm leveraging Next.js, NestJS, and WebSockets to handle instant data synchronization.<br>
+👯 **Collaboration:** I'm looking to contribute to open-source projects or startup ventures focused on TypeScript ecosystems and scalable frontend architectures.<br>
+🌱 **Continuous Learning:** Deep-diving into Advanced DevOps (AWS, Docker, and CI/CD) to streamline the full development lifecycle from code to cloud.<br>
+🤝 **Seeking Insight:** I'm interested in discussing system design patterns and strategies for scaling NestJS/PostgreSQL backends.<br>
+💬 **Let's Talk About:** Translating Figma designs into pixel-perfect UIs, shipping React Native apps to both stores, or optimizing web performance and Agile workflows.<br>
+⚡ **Fun fact:** Shipped to the App Store & Google Play in my first year of working 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khoi-nguyen-huynh-minh-0320a2226/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/minh.khoi.37625843/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khoinhm.work@gmail.com)
