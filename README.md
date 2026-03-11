@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 **Currently Building:** Kinetic – a real-time project management platform. I'm leveraging Next.js, NestJS, and WebSockets to handle instant data synchronization.<br>
 👯 **Collaboration:** I'm looking to contribute to open-source projects or startup ventures focused on TypeScript ecosystems and scalable frontend architectures.<br>
 🌱 **Continuous Learning:** Deep-diving into Advanced DevOps (AWS, Docker, and CI/CD) to streamline the full development lifecycle from code to cloud.<br>
 🤝 **Seeking Insight:** I'm interested in discussing system design patterns and strategies for scaling NestJS/PostgreSQL backends.<br>
